@@ -20,7 +20,16 @@ Las reuniones sin estructura pueden extenderse innecesariamente.
 La falta de agenda genera desviaciones del tema principal.
 Equipos ágiles utilizan reuniones cortas (ej. daily stand-ups de 15 minutos) para mejorar eficiencia
 
-##parte de JOSELIN
+3. Solución
+
+Implementar una nueva dinámica de reuniones basada en:
+
+Duración máxima de 15 minutos.
+Uso obligatorio de una agenda clara y definida previamente.
+Participaciones breves y enfocadas.
+Moderador encargado de controlar el tiempo.
+
+podes agragar esto al documento porfa
 
 
 4. Beneficios
