@@ -7,4 +7,5 @@ HENNSEN ARMANDO RODRIGO ALDANA VILLALOBOS
 JOSSELYN GABRIELA MENDOZA CAMARGO
 <img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/d3d584de-945b-4296-8d96-b33519a43d2c" />
 
-
+HASEL ABIGAIL GIRÓN URBINA
+<img width="1600" height="757" alt="evaluacion" src="https://github.com/user-attachments/assets/c029dd4e-8be5-4e0e-9129-f197729d0998" />
