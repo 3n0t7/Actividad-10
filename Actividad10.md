@@ -9,7 +9,7 @@
 
 Las reuniones del equipo son largas y poco eficientes. Se propone limitar su duración a 15 minutos y usar una agenda clara.
 
-## Propuesta Persuasiva (3 minutos)
+## Propuesta Persuasiva 
 1. Problema
 
 Actualmente, las reuniones del equipo presentan problemas de duración excesiva y falta de enfoque. Esto provoca pérdida de tiempo, baja productividad y dificultad para tomar decisiones claras.
@@ -18,7 +18,7 @@ Actualmente, las reuniones del equipo presentan problemas de duración excesiva 
 
 Las reuniones sin estructura pueden extenderse innecesariamente.
 La falta de agenda genera desviaciones del tema principal.
-Equipos ágiles utilizan reuniones cortas (ej. daily stand-ups de 15 minutos) para mejorar eficiencia
+Equipos ágiles utilizan reuniones cortas para mejorar eficiencia
 
 3. Solución
 
@@ -42,17 +42,17 @@ Mensaje clave.
 
 Reducir el tiempo de reuniones y estructurarlas adecuadamente permitirá optimizar recursos, mejorar la comunicación y aumentar la eficiencia del equipo.
 
-Posibles preguntas (Q&A)
+# Posibles preguntas 
 
-¿Qué pasa si no se logra cubrir todo en 15 minutos?
+- ¿Qué pasa si no se logra cubrir todo en 15 minutos?
 Se pueden agendar reuniones específicas adicionales solo para temas necesarios.
 
-¿Cómo asegurar que todos participen?
+- ¿Cómo asegurar que todos participen?
 Asignando turnos o tiempos breves de intervención por persona.
 
-¿Quién define la agenda?
+- ¿Quién define la agenda?
 El líder del equipo o el organizador de la reunión, con apoyo del equipo.
 
-Conclusión
+# Conclusión
 
 Adoptar reuniones cortas y estructuradas es un cambio simple pero de alto impacto que mejora significativamente la eficiencia y productividad del equipo.
