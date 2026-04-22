@@ -29,10 +29,8 @@ Uso obligatorio de una agenda clara y definida previamente.
 Participaciones breves y enfocadas.
 Moderador encargado de controlar el tiempo.
 
-podes agragar esto al documento porfa
-
-
 4. Beneficios
+
 Mayor productividad del equipo.
 Reducción de tiempo perdido.
 Reuniones más enfocadas y efectivas.
