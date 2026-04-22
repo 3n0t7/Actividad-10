@@ -13,3 +13,9 @@ Las reuniones del equipo son largas y poco eficientes. Se propone limitar su dur
 1. Problema
 
 Actualmente, las reuniones del equipo presentan problemas de duración excesiva y falta de enfoque. Esto provoca pérdida de tiempo, baja productividad y dificultad para tomar decisiones claras.
+
+2. Evidencia
+
+Las reuniones sin estructura pueden extenderse innecesariamente.
+La falta de agenda genera desviaciones del tema principal.
+Equipos ágiles utilizan reuniones cortas (ej. daily stand-ups de 15 minutos) para mejorar eficiencia
