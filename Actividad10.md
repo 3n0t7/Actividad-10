@@ -20,7 +20,10 @@ Las reuniones sin estructura pueden extenderse innecesariamente.
 La falta de agenda genera desviaciones del tema principal.
 Equipos ágiles utilizan reuniones cortas (ej. daily stand-ups de 15 minutos) para mejorar eficiencia
 
-3. Beneficios
+##parte de JOSELIN
+
+
+4. Beneficios
 Mayor productividad del equipo.
 Reducción de tiempo perdido.
 Reuniones más enfocadas y efectivas.
